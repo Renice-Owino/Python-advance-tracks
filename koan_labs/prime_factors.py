@@ -10,5 +10,5 @@ def largest_prime_factor(args):
 		else:
 			test += 1
 	
-	return test
+	return test    
 #print largest_prime_factor(7)
